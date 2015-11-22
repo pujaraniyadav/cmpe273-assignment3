@@ -2,10 +2,10 @@
 
 ## Steps to compile
 
-git clone https://github.com/pujaraniyadav/cmpe273-assignment3.git
+```git clone https://github.com/pujaraniyadav/cmpe273-assignment3.git
 cd cmpe273-assignment3
 export GOCODE=$PWD/gocode
-go build
+go build```
 
 ## Steps to start the REST server
 
