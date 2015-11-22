@@ -11,7 +11,9 @@ go build
 
 ## Steps to start the REST server
 
+```
 ./uber-app
+```
 It will start the REST server in :12345
 
 ## Steps to test
