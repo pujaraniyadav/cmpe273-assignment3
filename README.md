@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/pujaraniyadav/cmpe273-assignment3.git
 cd cmpe273-assignment3
-export GOCODE=$PWD/gocode
+export GOPATH=$PWD/gocode
 go build
 ```
 
