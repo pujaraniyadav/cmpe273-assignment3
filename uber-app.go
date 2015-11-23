@@ -112,13 +112,13 @@ var _id int
 
 func InitLocations() {
 	_locations = map[string]Location{}
-	_locations["0"] = Location{"FREMONT, CA", 37.548270, -121.988572}
-	_locations["1"] = Location{"SAN FRANCISCO, CA", 37.774929, -122.419416}
-	_locations["2"] = Location{"SAN JOSE, CA", 37.338208, -121.886329}
-	_locations["3"] = Location{"PALO ALTO, CA", 37.441883, -122.143019}
-	_locations["4"] = Location{"PLEASONTON, CA", 37.662431, -121.874679}
-	_locations["5"] = Location{"LIVERMORE, CA", 37.681874, -121.768009}
+	_locations["0"] = Location{"Fairmont Hotel San Francisco (950 Mason St, San Francisco, CA 94108)", 37.792496, -122.410035}
+	_locations["1"] = Location{"Golden Gate Bridge, California", 37.819929, -122.478255}
+	_locations["2"] = Location{"Pier 39 (Beach Street & The Embarcadero, San Francisco, CA 94133)", 37.799263, -122.397673}
+	_locations["3"] = Location{"Golden Gate Park", 37.769040, -122.483519}
+	_locations["4"] = Location{"Twin Peaks (501 Twin Peaks Blvd, San Francisco, CA 94114)", 37.752556, -122.447619}
 }
+
 
 //
 // Uber 
